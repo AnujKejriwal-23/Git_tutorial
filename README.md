@@ -45,5 +45,9 @@ NOTE: The name of the remote connection is always used to establish communicatio
 21. Merge conflicts can occur if multiple people try to make changes to the same file, and then collaborate.
 
 
+
+
 22. chechking merge conflict
+
+23. change from the local repo
 
