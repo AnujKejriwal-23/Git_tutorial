@@ -42,6 +42,4 @@ NOTE: The name of the remote connection is always used to establish communicatio
 
 20. `git pull <remote name> <branch name>` -> downloads the latest changes from the branch of the mentioned remote in your local repo.
 
-21. Merge conflicts are a very common scenario.
-
-
+21. Merge conflicts can occur if multiple people try to make changes to the same file, and then collaborate.
