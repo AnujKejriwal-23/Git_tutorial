@@ -1,0 +1,1 @@
+11. `git restore --staged <file>` -> it removes file from the staging area to the working area.
